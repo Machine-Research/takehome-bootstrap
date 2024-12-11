@@ -2,6 +2,10 @@
 
 Please see the provided requirements document for project guidance after cloning this repo.
 
+# Installing project dependencies
+
+Run `npm i` to install dependencies before starting the development server.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
