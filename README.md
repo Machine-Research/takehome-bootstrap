@@ -2,7 +2,7 @@
 
 Please see the provided requirements document for project guidance after cloning this repo.
 
-# Installing project dependencies
+## Installing project dependencies
 
 Run `npm i` to install dependencies before starting the development server.
 
